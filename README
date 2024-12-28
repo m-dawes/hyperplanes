@@ -1,0 +1,22 @@
+############################################################
+#                                                          #
+#               README: involutions.sage                   #
+#                                                          #
+############################################################
+
+
+== Introduction ==
+
+The file involutions.sage calculates fixed loci of symplectic involutions acting on cones defined in MacPherson and McConnell's 1993 paper 'Explicit reduction theory for Siegel modular threefolds'.
+
+It is intended for use in a forthcoming paper.
+
+To run it, load into Sage and call the function all_invs().
+
+== Bug Reports ==
+
+Please feel free to report any bugs or send comments to  matthew.r.dawes@bath.edu.
+
+== Standard Disclaimers ==
+
+The software is provided 'as is', no warranty is provided, and the author shall not be held liable for any damages incurred through the use or downloading of the software or associated files, or information contained herein.
